@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="./assets/banner.svg" alt="Banner" width="100%" />
+<img src="./banner.svg" alt="Banner" width="100%" />
 
 # Hi 👋, I'm John Doe
 
