@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm John Doe
 
-<img src="./assets/profile.png" alt="Profile" width="180" style="border-radius:50%;" />
+<img src="./profile.png" alt="Profile" width="180" style="border-radius:50%;" />
 
 Frontend Developer • UI Designer • Open Source Enthusiast
 
